@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59e92740.css",
+    "main.js": "/static/js/main.6b9600db.js",
+    "static/media/Alikhajepour-resume.pdf": "/static/media/Alikhajepour-resume.fac3f8c1fb29e8ebd97e.pdf",
+    "static/media/mlmkey.png": "/static/media/mlmkey.a6b86d3430ab985f391c.png",
+    "static/media/ali_khajehpour.jpg": "/static/media/ali_khajehpour.85e10893f51eb7a07f65.jpg",
+    "static/media/namava.png": "/static/media/namava.137d78644e975fdb70fe.png",
+    "static/media/taxiAlaan.png": "/static/media/taxiAlaan.59c73c19922133fcef42.png",
+    "static/media/mymemory.png": "/static/media/mymemory.b9e929d80ec667e140e0.png",
+    "static/media/nextFamily.png": "/static/media/nextFamily.5c29a4e68c1bf7262372.png",
+    "static/media/ketabsara.png": "/static/media/ketabsara.cc870dee73f48506d1dc.png",
+    "static/media/ahangify.png": "/static/media/ahangify.cfa6774b91b96da3e7c5.png",
+    "static/media/mDelivery.png": "/static/media/mDelivery.f2dbefd253b88b082e56.png",
+    "static/media/vimeoplayer.png": "/static/media/vimeoplayer.927eb07f156b878faf7c.png",
+    "static/media/vatanZarin.png": "/static/media/vatanZarin.53590565a93817952ebb.png",
+    "static/media/adsRepoBanner.png": "/static/media/adsRepoBanner.80d736d479488236d594.png",
+    "index.html": "/index.html",
+    "main.59e92740.css.map": "/static/css/main.59e92740.css.map",
+    "main.6b9600db.js.map": "/static/js/main.6b9600db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59e92740.css",
+    "static/js/main.6b9600db.js"
+  ]
+}
